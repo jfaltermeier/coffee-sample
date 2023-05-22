@@ -1,0 +1,12 @@
+/bin/
+/src-gen/*
+/target/
+.help
+.cache
+cpp/CMakeFiles
+cpp/src/CMakeFiles
+Makefile
+cmake_install.cmake
+SuperBrewer3000
+CMakeCache.txt
+compile_commands.json
